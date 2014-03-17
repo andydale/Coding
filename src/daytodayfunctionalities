@@ -1,0 +1,17 @@
+
+//Collections classes to sort a collection
+Collections.sort(list, new Comparator<Integer>(){
+	@override
+	public int compare(Integer a,Integer b){
+	  return a > b ? 1 : a==b ? 0 : -1;
+	}	
+});
+
+
+//HashMap
+Iterator
+
+
+
+
+//Threads

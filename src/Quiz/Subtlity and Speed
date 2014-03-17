@@ -1,0 +1,82 @@
+Q S H T L H G
+
+
+##################################################################################################################################
+Selection sort
+	
+Insertion sort
+	Optimizations : Shell sort
+	Drawbacks, long distance exchanges are costly.
+	Advantages, nearly sorted arrays can be quickly sorted using this, when the gap is smaller then it exchanges are close and comparisons are less.
+		
+Quick sort
+	in place
+	optimizations: 3 way optimization
+	
+Merge sort
+	complexity
+	in place
+	 
+Heap sort
+	
+Heaps complexity and construction
+	O(n) complexity
+	O(nlogn) complexity
+	Complete binary trees
+
+Radix Sort
+
+##################################################################################################################################	
+Queue
+	BFS
+	Priority Queues
+
+Stack
+	Peek
+	DFS
+	Easiest and quickly disposable data structure 
+	
+ArrayList
+	Loading factor, expansion of stack
+	
+Linked list
+	Complexity O(n)
+
+Arrays
+	Quickest data structures and optimal space usage.
+	Inertion and deletion are issues
+		Deletion can be soft deletion. In some trees also we use soft deletion
+HashMap
+Tree
+	Range trees
+Linked lists
+	Recursive traversal
+Graphs
+	Kruskals
+	Prims
+	A*
+	Hamiltonian cycle
+
+################################################################################################################################
+Programming Paragdigms	
+	Recursion
+		D & C
+		Tower of hanoi variant problems
+	DP	
+	Greedy
+	Back Tracking
+################################################################################################################################
+Shell
+Java
+Scala
+
+Model production systems
+Data processing
+Model development and deployment
+	Dependencies
+Model training
+Shuffling
+
+Optimizations and Problem statements evaluation
+
+
